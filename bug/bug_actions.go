@@ -3,7 +3,7 @@ package bug
 import (
 	"fmt"
 	"io"
-	"strings"
+	"strings"sdfsd
 
 	"github.com/MichaelMure/git-bug/repository"
 )
