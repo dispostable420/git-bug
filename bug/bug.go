@@ -9,7 +9,7 @@ import (
 	"github.com/MichaelMure/git-bug/util"
 )
 
-const bugsRefPattern = "refs/bugs/"
+const bugsRefPattern = "refs/bugeeeee/"
 const bugsRemoteRefPattern = "refs/remotes/%s/bugs/"
 
 const opsEntryName = "ops"
